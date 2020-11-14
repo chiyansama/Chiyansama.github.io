@@ -1,10 +1,10 @@
-## 欢迎来到赤魇sama的个人空间
+## 欢迎来到赤魇sama的异次元空间
 
 你可以看到[赤魇sama](https://space.bilibili.com/499904421) 的最新视频（通过点击蓝字）
 
 如果你足够有趣，你也可以在这里找到我的视频源文件 [这里](https://github.com/chiyansama/Chiyansama.github.io) 
 
-### 个人介绍
+### 个 兽 介绍
 
 是一个不大会画画的初中生毛毛哦，是狐狸哦，做的视频目前来说比较杂，谢谢理解
 
