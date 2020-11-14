@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到赤魇sama的个人空间
 
-You can use the [editor on GitHub](https://github.com/chiyansama/Chiyansama.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+你可以看到[赤魇sama](https://space.bilibili.com/499904421) 的最新视频（通过点击蓝字）
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
