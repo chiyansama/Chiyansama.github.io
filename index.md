@@ -2,7 +2,7 @@
 
 你可以看到[赤魇sama](https://space.bilibili.com/499904421) 的最新视频（通过点击蓝字）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果你足够有趣，你也可以在这里找到我的视频源文件 [这里](https://github.com/chiyansama/Chiyansama.github.io) 
 
 ### Markdown
 
