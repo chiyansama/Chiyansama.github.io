@@ -4,34 +4,20 @@
 
 如果你足够有趣，你也可以在这里找到我的视频源文件 [这里](https://github.com/chiyansama/Chiyansama.github.io) 
 
-### Markdown
+### 个人介绍
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+是一个不大会画画的初中生毛毛哦，是狐狸哦，做的视频目前来说比较杂，谢谢理解
 
 ```markdown
-Syntax highlighted code block
+种族介绍
 
-# Header 1
-## Header 2
-### Header 3
+物种：狐狸
+习性：昼伏夜出
+爱好：嗜梦
+特殊能力：可以穿梭于梦境之间
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+如果你喜欢我，就请时不时上这个网站并且关注我的哔哩哔哩吧！！！
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chiyansama/Chiyansama.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本网站不盈利，不商业，没有网络公证所以随时会挂，也请大家珍惜哦，rua！！！！！
