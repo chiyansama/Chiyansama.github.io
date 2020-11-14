@@ -1,13 +1,14 @@
 ## 欢迎来到赤魇sama的个人网站
 你可以在这里查看并保存我的各种资料
+
 你也可以在这里找到我的B站id和我的更新视频源文件。
 
-### Markdown
+### 关于我的设定
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我的设定使用权及商用权均在我手里，并且由我自己创作。
 
 ```markdown
-Syntax highlighted code block
+这是一些我的使用的图片
 
 # Header 1
 ## Header 2
