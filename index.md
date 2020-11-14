@@ -10,7 +10,8 @@
 ```markdown
 这是一些我的使用的图片
 
-# [Header 1](https://github.com/chiyansama/Chiyansama.github.io/blob/main/QQ%E5%9B%BE%E7%89%8720201114184411.jpg)
+[Link](url) and ![Image](src)
+[Header 1](https://github.com/chiyansama/Chiyansama.github.io/blob/main/QQ%E5%9B%BE%E7%89%8720201114184411.jpg).
 ## Header 2
 ### Header 3
 
