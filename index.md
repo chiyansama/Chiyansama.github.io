@@ -15,7 +15,8 @@
 习性：昼伏夜出
 爱好：嗜梦
 特殊能力：可以穿梭于梦境之间
-![image](https://github.com/chiyansama/Chiyansama.github.io/blob/main/p1.jpg
+
+![image](https://github.com/chiyansama/Chiyansama.github.io/blob/main/p1.jpg)
 ```
 
 如果你喜欢我，就请时不时上这个网站并且关注我的哔哩哔哩吧！！！
