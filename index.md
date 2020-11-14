@@ -1,8 +1,6 @@
 ## 欢迎来到赤魇sama的个人网站
-
-You can use the [editor on GitHub](https://github.com/chiyansama/Chiyansama.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你可以在这里查看并保存我的各种资料
+你也可以在这里找到我的B站id和我的更新视频源文件。
 
 ### Markdown
 
